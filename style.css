@@ -1,0 +1,199 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+input[type=button]{
+	font-size: 20px;
+	background-color: brown;
+	font-style: bold;
+	color:white;
+	margin-bottom: 10px;
+}
+#id1{
+	width: 100%;
+	height:auto;
+	text-align: center;
+	background-color: black;
+	display: flex;
+	justify-content: center;
+	}
+
+#id1 .shipping{
+	width: 20%;
+	height: auto;
+}
+#id1 .shipping p{
+	color: white;
+	font-size: 1em;
+	font-family: "times new roman";
+	line-height: 25px;
+	text-align: justify;
+}
+#id1 .shipping img{
+	width: 15%;
+	height:auto;
+}
+
+#part2{
+	width: 100%;
+	height: auto;
+	background-color: rgb(227, 227, 227);
+}
+#part2 .logo{
+	width: 100%;
+	height:auto;
+}
+#part2 .logo img{
+	width: 15%;
+	height: auto;
+	padding: 20px 20px;
+}
+
+#part2 .text{
+	width: 100%;
+	height: auto;
+	display: flex;
+	justify-content: space-around;
+}
+#part2 .text .content{
+	width: 40%;
+	height: auto;
+	}
+#part2 .text .content h1{
+    font-family: "times new roman";
+    font-style: italic;
+    justify-content: center;
+    padding-top: 10px;
+}
+#part2 .text .content p{
+    font-family: "times new roman";
+    font-size: 1em;
+    line-height: 25px;
+	text-align: justify;
+}
+#part2 .text .img2{
+	width: 30%;
+	height: auto;
+}
+#part2 .text .img2 img{
+width: 60%;
+height: auto;
+padding-bottom: 10px;
+}
+
+#title{
+	width: 100%;
+	height:auto;
+}
+#title .text2{
+	width: 100%
+	height:auto;
+	
+}
+#title .text2 h2{
+	font-weight: bold;
+	font font-family: 'cursive';
+	text-align:center;
+	text-decoration: underline;
+}
+#title .text2 p{
+	font font-family: 'cursive';
+	text-align:center;
+	line-height: 25px;
+}
+#title .part3{
+	width: 100%;
+	height: auto;
+	display: flex;
+	justify-content: space-around;
+}
+#title .part3 .img3{
+	width: 50%;
+	height: auto;
+	padding-left: 15%;
+}
+#title .part3 .img3 img{
+	width: 50%;
+	padding-top: 8%;
+	padding-left: 25%;
+	height: auto;
+}
+#title .part3 .content2{
+	width: 50%;
+	height: auto;
+	padding-right: 20%;
+	}
+#title .part3 .content2 h3{
+    font-family: "times new roman";
+    font-style: italic;
+
+    
+}
+#title .part3 .content2 h4{
+    font-family: "times new roman";
+    font-style: italic;
+    
+}
+#title .part3 .content2 p{
+    font-family: "times new roman";
+    line-height: 25px;
+	text-align: justify;    
+}
+#mgc{
+	height: auto;
+	width: 100%;
+	padding-top: 5%;
+	background-color: rgb(227, 227, 227);
+}
+#mgc .last{
+	height: auto;
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+}
+#mgc .last .text3{
+	height: auto;
+	width: 40%;
+	text-align: center;
+}
+#mgc .last .text3 h2{
+	height: auto;
+	width: 100%;
+	text-align: center;
+	font-style: italic;
+	font font-family: cursive;
+	line-height: 5px;
+}
+#mgc .last .text3 p{
+	height: auto;
+	width: 100%;
+	text-align: center;
+	font-size: 1em;
+	font font-family: cursive;
+	line-height: 25px;
+	text-align: justify;
+}
+#mgc .last .img4{
+	width: 40%;
+	height: auto;
+}
+.last .img4 img{
+	width: 85%;
+	height: auto;
+}
+#foot {
+	width: 100%;
+	height: auto;
+	background-color: black;
+	padding-top: 1%;
+	padding-bottom: 1%
+}
+
+#foot p{
+	font-style: italic;
+	font-size: 0.5em;
+	font-family: cursive;
+	text-align: center;
+	color: white;
+}
